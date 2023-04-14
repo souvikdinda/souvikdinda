@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/souvikdinda/souvikdinda/blob/main/assets/sql.png" height="45" />&nbsp;&nbsp;
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikdinda&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&private_count=true&include_all_commits=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikdinda&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikdinda&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&private_count=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikdinda&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
